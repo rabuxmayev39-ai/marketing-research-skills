@@ -1,0 +1,14 @@
+{
+  "name": "marketing-research-skills",
+  "owner": {
+    "name": "Marketing Research Skills maintainers"
+  },
+  "plugins": [
+    {
+      "name": "marketing-research-system",
+      "source": "./plugins/marketing-research-system",
+      "description": "Orchestrator, 7 stage skills and 134 method skills for running a marketing project from research to strategy to communication."
+    }
+  ],
+  "description": "Skills that run a marketing project from research to strategy to communication, each step tied to a cited methodology."
+}

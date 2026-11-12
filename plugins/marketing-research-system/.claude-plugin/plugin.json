@@ -1,0 +1,17 @@
+{
+  "name": "marketing-research-system",
+  "description": "A system of 142 Claude skills that runs a marketing project from research to strategy to communication: one orchestrator, 7 stage skills and 134 deep method skills, with a cited methodology behind every step.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "research",
+    "strategy",
+    "uzbekistan",
+    "skills",
+    "methodology"
+  ],
+  "author": {
+    "name": "Marketing Research Skills maintainers"
+  }
+}
